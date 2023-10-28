@@ -54,7 +54,7 @@ namespace Atividade {
                 Console.WriteLine("------ Pessoa Física ------");
                 Console.WriteLine($"Nome ..........: {pj.nome}");
                 Console.WriteLine($"Endereço ......: {pj.endereco}");
-                Console.WriteLine($"CNPJ ...........: {pj.cnpj}");
+                Console.WriteLine($"CNPJ ..........: {pj.cnpj}");
                 Console.WriteLine($"IE ............: {pj.ie}");
                 Console.WriteLine($"Valor da compra: {pj.valor:C}");
                 Console.WriteLine($"Imposto .......: {pj.valor_imposto:C}");
