@@ -1,0 +1,15 @@
+/home/gabriel_felipe/arch/senai/Atividade/bin/Debug/net6.0/Atividade
+/home/gabriel_felipe/arch/senai/Atividade/bin/Debug/net6.0/Atividade.deps.json
+/home/gabriel_felipe/arch/senai/Atividade/bin/Debug/net6.0/Atividade.runtimeconfig.json
+/home/gabriel_felipe/arch/senai/Atividade/bin/Debug/net6.0/Atividade.dll
+/home/gabriel_felipe/arch/senai/Atividade/bin/Debug/net6.0/Atividade.pdb
+/home/gabriel_felipe/arch/senai/Atividade/obj/Debug/net6.0/Atividade.csproj.AssemblyReference.cache
+/home/gabriel_felipe/arch/senai/Atividade/obj/Debug/net6.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel_felipe/arch/senai/Atividade/obj/Debug/net6.0/Atividade.AssemblyInfoInputs.cache
+/home/gabriel_felipe/arch/senai/Atividade/obj/Debug/net6.0/Atividade.AssemblyInfo.cs
+/home/gabriel_felipe/arch/senai/Atividade/obj/Debug/net6.0/Atividade.csproj.CoreCompileInputs.cache
+/home/gabriel_felipe/arch/senai/Atividade/obj/Debug/net6.0/Atividade.dll
+/home/gabriel_felipe/arch/senai/Atividade/obj/Debug/net6.0/refint/Atividade.dll
+/home/gabriel_felipe/arch/senai/Atividade/obj/Debug/net6.0/Atividade.pdb
+/home/gabriel_felipe/arch/senai/Atividade/obj/Debug/net6.0/Atividade.genruntimeconfig.cache
+/home/gabriel_felipe/arch/senai/Atividade/obj/Debug/net6.0/ref/Atividade.dll
